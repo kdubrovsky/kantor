@@ -1,4 +1,8 @@
-// Try to guess script output
+// String quotes
+
+// What is the output of the script?
+
+// https://javascript.info/task/string-quotes
 
 let name = "Ilya";
 

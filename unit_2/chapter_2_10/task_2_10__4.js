@@ -1,6 +1,7 @@
 // Rewrite 'if' into '?'
 
 // Rewrite this if using the conditional operator '?':
+
 // https://javascript.info/task/rewrite-if-question
 
 let a = 1;

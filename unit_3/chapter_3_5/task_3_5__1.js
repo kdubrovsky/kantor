@@ -2,6 +2,8 @@
 
 // What’s wrong in the test of pow below?
 
+// https://javascript.info/task/pow-test-wrong
+
 it("Raises x to the power n", function () {
     let x = 5;
 
