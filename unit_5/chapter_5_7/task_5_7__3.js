@@ -5,6 +5,8 @@
 // But that doesn’t work
 // Why? How can we fix the code to make keys.push work?
 
+// https://javascript.info/task/iterable-keys
+
 let map = new Map();
 
 map.set("name", "John");

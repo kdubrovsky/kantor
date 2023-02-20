@@ -5,6 +5,8 @@
 
 // From every anagram group should remain only one word, no matter which one.
 
+// https://javascript.info/task/filter-anagrams
+
 const aclean = (arr) => {
     let map = new Map();  // for sorted normalized strings
 
